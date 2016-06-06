@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "矢口西小学校",
+        "_markerType": "Icon",
+        "_iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/097.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.68796491622925,
+          35.567762279873044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "自宅",
+        "_markerType": "Icon",
+        "_iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/097.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.68274533748627,
+          35.56548882831717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "家→小学校",
+        "_color": "#45818e",
+        "_opacity": 1,
+        "_weight": 10
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.6827507019043,
+            35.56548446462452
+          ],
+          [
+            139.68334078788757,
+            35.56602556070065
+          ],
+          [
+            139.68429028987885,
+            35.56659719855399
+          ],
+          [
+            139.68479454517365,
+            35.56598628772133
+          ],
+          [
+            139.68796491622925,
+            35.567779734146036
+          ]
+        ]
+      }
+    }
+  ]
+}
